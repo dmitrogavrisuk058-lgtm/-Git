@@ -1,1 +1,1 @@
-2console.log("BUGGG")
+console.log("BUGGG")
